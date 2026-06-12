@@ -1,0 +1,13 @@
+{
+  "name": "nextgen-tv",
+  "version": "2.0.0",
+  "description": "NextGen TV — Live Sports Streaming by Shahadat",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "npx serve public --listen 3000",
+    "start": "npx serve public"
+  },
+  "author": "Shahadat",
+  "license": "MIT"
+}
